@@ -1,1 +1,5 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulocamargojr)](https://github.com/paulocamargojr/github-readme-stats)
+<div>
+<a href="https://github.com/paulocamargojr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocamargojr&show_icons=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocamargojr&layout=compact&langs_count=7"/>
+</div>
