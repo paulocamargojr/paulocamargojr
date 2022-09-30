@@ -1,5 +1,6 @@
-<div>
-<a href="https://github.com/paulocamargojr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocamargojr&show_icons=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocamargojr&layout=compact&langs_count=7"/>
-</div>
+<a href="https://github.com/paulocamargojr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulocamargojr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/paulocamargojr/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulocamargojr&repo=convoychat" />
+</a>
